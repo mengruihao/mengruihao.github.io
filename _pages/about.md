@@ -15,9 +15,9 @@ I am studying at the School of Mechanical Engineering, SJZU, majoring in Mechani
 
 曾获荣誉（截止至2024年1月）
 ======
-RoboMaster2022-2024梯度队员  |  2023年中国大学生计算机博弈大赛不围棋二等奖  |  2023年中国大学生计算机博弈大赛幻影围棋二等奖  |  2023年辽宁省“中软国际——卓越杯”大数据挑战赛二等奖  |  2023辽宁省大学生计算机博弈大赛不围棋二等奖  |  2023年辽宁省大学生计算机博弈大赛幻影围棋二等奖  |  2023年辽宁省交通科技大赛（本科生赛道）二等奖  |  2023年中国大学生机械工程创新创意大赛物流技术创意赛（区域赛）三等奖
+RoboMaster2022-2024  |  2023年中国大学生计算机博弈大赛不围棋二等奖  |  2023年中国大学生计算机博弈大赛幻影围棋二等奖  |  2023年辽宁省“中软国际——卓越杯”大数据挑战赛二等奖  |  2023辽宁省大学生计算机博弈大赛不围棋二等奖  |  2023年辽宁省大学生计算机博弈大赛幻影围棋二等奖  |  2023年辽宁省交通科技大赛（本科生赛道）二等奖  |  2023年中国大学生机械工程创新创意大赛物流技术创意赛（区域赛）三等奖
 
-RoboMaster 2022-2024 Gradient Team Member  |  Second Prize in Non Go at the 2023 China University Computer Game Competition  |  Second Prize in Phantom Go at the 2023 China University Computer Game Competition  |  2023 Liaoning Province "China Soft International - Excellence Cup" Second Prize in Big Data Challenge  |  Second Prize in Non Go in 2023 Liaoning Province College Student Computer Game Competition  |  Second Prize in Phantom Go in 2023 Liaoning Province College Student Computer Game Competition  |  Second Prize in 2023 Liaoning Province Transportation Technology Competition (Undergraduate Track)  |  Third Prize in Logistics Technology Innovation Competition (Regional Competition) of 2023 China College Student Mechanical Engineering Innovation Competition
+RoboMaster 2022-2024  |  Second Prize in Non Go at the 2023 China University Computer Game Competition  |  Second Prize in Phantom Go at the 2023 China University Computer Game Competition  |  2023 Liaoning Province "China Soft International - Excellence Cup" Second Prize in Big Data Challenge  |  Second Prize in Non Go in 2023 Liaoning Province College Student Computer Game Competition  |  Second Prize in Phantom Go in 2023 Liaoning Province College Student Computer Game Competition  |  Second Prize in 2023 Liaoning Province Transportation Technology Competition (Undergraduate Track)  |  Third Prize in Logistics Technology Innovation Competition (Regional Competition) of 2023 China College Student Mechanical Engineering Innovation Competition
 
 Getting started
 ======

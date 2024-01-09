@@ -66,6 +66,11 @@ og_image                 :  "bilinili.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
+  type                   : Person
+  name                   : "星期六不太累"
+  links: - bilibili: "https://space.bilibili.com/20571815"
+  
+social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles

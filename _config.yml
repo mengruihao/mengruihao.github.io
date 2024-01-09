@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "China Shenyang"
+title                    : "孟睿豪 Meng Ruihao / 个人主页"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "孟睿豪 Meng Ruihao"
 description              : &description "personal description"
 url                      : https://mengruihao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &Bilibili
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Meng Ruihao(孟睿豪)"
   avatar           : "mrh.png"
-  bio              : "SJZU 2022-2026(Undergraduate)<br />RoboMaster 2022-2024"
+  bio              : "SJZU 2022-2026(在读)<br />RoboMaster 2022-2024"
   location         : "China Shenyang"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

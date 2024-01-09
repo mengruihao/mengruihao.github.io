@@ -66,14 +66,14 @@ og_image                 :  "bilinili.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : Person
-  name                   : "星期六不太累"
-  links: - bilibili: "https://space.bilibili.com/20571815"
-  
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  - type: Person
+    name: "星期六不太累"
+    links:
+      - bilibili: "https://space.bilibili.com/20571815"
+  - type: # Person or Organization (defaults to Person)
+    name: # If the user or organization name differs from the site's name
+    links: # An array of links to social media profiles
+
 
 
 # Analytics
@@ -92,7 +92,7 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "3096236731@qq.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,7 +101,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mengruihao"
   google_plus      :
   keybase          :
   instagram        :

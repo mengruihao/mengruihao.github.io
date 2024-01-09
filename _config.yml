@@ -91,9 +91,9 @@ author:
   location         : "China Shenyang"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://space.bilibili.com/20571815"
+  googlescholar    : #谷歌学术主页
   email            : "3096236731@qq.com"
-  researchgate     :  "https://space.bilibili.com/20571815" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :   # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :

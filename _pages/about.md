@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-就读于沈阳建筑大学机械工程学院，机械设计制造及其自动化专业。RoboMaster2022-2024，沈阳建筑大学 · 简锋实验室 视觉/算法组成员，主要方向为机器视觉。曾参加中国大学生机械工程创新创意大赛物流技术创意赛获国家级二等奖。
+就读于沈阳建筑大学机械工程学院，机械设计制造及其自动化专业。RoboMaster2022-2024，沈阳建筑大学简锋实验室视觉/算法组成员，主要方向为机器视觉。曾参加中国大学生机械工程创新创意大赛物流技术创意赛获国家级二等奖。
 
 I am studying at the School of Mechanical Engineering, SJZU, majoring in Mechanical Design, Manufacturing and Automation. RoboMaster2022-2024, member of the Vision/Algorithm Group at SJZU·JianFeng Laboratory, with a main focus on machine vision. I have participated in the Logistics Technology Creative Competition of the China University Student Mechanical Engineering Innovation Competition and won the second prize at the national level.
 
 
 曾获荣誉（截止至2024年1月）
 ======
-RoboMaster2022-2024梯度队员 | 2023年中国大学生计算机博弈大赛不围棋二等奖 | 2023年中国大学生计算机博弈大赛幻影围棋二等奖 | 2023年辽宁省“中软国际——卓越杯”大数据挑战赛二等奖 | 2023辽宁省大学生计算机博弈大赛不围棋二等奖 | 2023年辽宁省大学生计算机博弈大赛幻影围棋二等奖 | 2023年辽宁省交通科技大赛（本科生赛道）二等奖 | 2023年中国大学生机械工程创新创意大赛物流技术创意赛（区域赛）三等奖
+RoboMaster2022-2024梯度队员  |  2023年中国大学生计算机博弈大赛不围棋二等奖  |  2023年中国大学生计算机博弈大赛幻影围棋二等奖  |  2023年辽宁省“中软国际——卓越杯”大数据挑战赛二等奖  |  2023辽宁省大学生计算机博弈大赛不围棋二等奖  |  2023年辽宁省大学生计算机博弈大赛幻影围棋二等奖  |  2023年辽宁省交通科技大赛（本科生赛道）二等奖  |  2023年中国大学生机械工程创新创意大赛物流技术创意赛（区域赛）三等奖
 
-RoboMaster 2022-2024 Gradient Team Member | Second Prize in Non Go at the 2023 China University Computer Game Competition | Second Prize in Phantom Go at the 2023 China University Computer Game Competition | 2023 Liaoning Province "China Soft International - Excellence Cup" Second Prize in Big Data Challenge | Second Prize in Non Go in 2023 Liaoning Province College Student Computer Game Competition | Second Prize in Phantom Go in 2023 Liaoning Province College Student Computer Game Competition | Second Prize in 2023 Liaoning Province Transportation Technology Competition (Undergraduate Track) | Third Prize in Logistics Technology Innovation Competition (Regional Competition) of 2023 China College Student Mechanical Engineering Innovation Competition
+RoboMaster 2022-2024 Gradient Team Member  |  Second Prize in Non Go at the 2023 China University Computer Game Competition  |  Second Prize in Phantom Go at the 2023 China University Computer Game Competition  |  2023 Liaoning Province "China Soft International - Excellence Cup" Second Prize in Big Data Challenge  |  Second Prize in Non Go in 2023 Liaoning Province College Student Computer Game Competition  |  Second Prize in Phantom Go in 2023 Liaoning Province College Student Computer Game Competition  |  Second Prize in 2023 Liaoning Province Transportation Technology Competition (Undergraduate Track)  |  Third Prize in Logistics Technology Innovation Competition (Regional Competition) of 2023 China College Student Mechanical Engineering Innovation Competition
 
 Getting started
 ======

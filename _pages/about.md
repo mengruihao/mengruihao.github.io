@@ -19,9 +19,9 @@ RoboMaster2022-2024  |  2023年中国大学生计算机博弈大赛不围棋二�
 
 RoboMaster 2022-2024  |  Second Prize in Non Go at the 2023 China University Computer Game Competition  |  Second Prize in Phantom Go at the 2023 China University Computer Game Competition  |  2023 Liaoning Province "China Soft International - Excellence Cup" Second Prize in Big Data Challenge  |  Second Prize in Non Go in 2023 Liaoning Province College Student Computer Game Competition  |  Second Prize in Phantom Go in 2023 Liaoning Province College Student Computer Game Competition  |  Second Prize in 2023 Liaoning Province Transportation Technology Competition (Undergraduate Track)  |  Third Prize in Logistics Technology Innovation Competition (Regional Competition) of 2023 China College Student Mechanical Engineering Innovation Competition
 
-Getting started
+目前更新项目
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. [《简锋视觉算法组学习路线与指南——更适合简锋宝宝体质的学习指南》](https://github.com/mengruihao/meng-home/blob/main/%E7%AE%80%E9%94%8B%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E7%BB%84%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E4%B8%8E%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E6%9B%B4%E9%80%82%E5%90%88%E7%AE%80%E9%94%8B%E5%AE%9D%E5%AE%9D%E4%BD%93%E8%B4%A8%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97.pdf)持续更新中...
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")

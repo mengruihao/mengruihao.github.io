@@ -45,6 +45,6 @@ RoboMaster2022-2024  |  2023年中国大学生计算机博弈大赛不围棋二�
 * 沈阳建筑大学简锋实验室 Bilibili 官方账号：https://space.bilibili.com/388263042 （ JianfengRobotics ）<br>
 
 * 沈阳建筑大学简锋实验室微信公众号<br>
-&emsp;<img src='/images/0.0.0.png'>
+<img src='/images/0.0.0.png'>
 
 

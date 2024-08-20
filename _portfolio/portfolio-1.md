@@ -1,6 +1,6 @@
 ---
 title: "基于 Pyhton 的插齿机仿真"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/0001.gif'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/插齿机.png'>"
 collection: portfolio
 ---
 

@@ -43,6 +43,6 @@ RoboMaster 2022-2024  |  Second Prize in Non Go at the 2023 China University Com
 * 沈阳建筑大学简锋实验室 Bilibili 官方账号：https://space.bilibili.com/388263042 （ JianfengRobotics ）<br>
 
 * 沈阳建筑大学简锋实验室微信公众号<br>
-&emsp;&emsp;&emsp;&emsp;<img src='/images/0.0.0.png'>
+&emsp;<img src='/images/0.0.0.png'>
 
 

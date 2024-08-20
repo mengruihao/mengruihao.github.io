@@ -38,6 +38,6 @@ RoboMaster 2022-2024  |  Second Prize in Non Go at the 2023 China University Com
 作者个人 CSDN： https://blog.csdn.net/weixin_73701209?type=blog（ 星期六不太累 ）<br>
 沈阳建筑大学简锋实验室 Bilibili 官方账号：https://space.bilibili.com/388263042 （ JianfengRobotics ）<br>
 沈阳建筑大学简锋实验室微信公众号
-![二维码](picture\0.0.0.jpg)
+![二维码](_pages/picture/0.0.0.jpg)
 
 

@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "基于 Pyhton 的插齿机仿真"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/0001.gif'>"
 collection: portfolio
 ---
 

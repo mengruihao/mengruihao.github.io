@@ -11,7 +11,7 @@ SJZU 2024 年机械原理与课程设计作业（优）：插齿机机构仿真
 collection: portfolio
 ---
 
-# 目录
+## 目录
 * [1.功能介绍](#1.功能介绍)
 * [2.效果展示](#2.效果展示)
 * [3.主要函数介绍](#3.主要函数介绍)
@@ -19,7 +19,7 @@ collection: portfolio
 * [5.目前存在问题]()
 
 
-# 1.功能介绍
+## 1.功能介绍
 |    模块     |     功能     |
 | :---:       |    :----:   |
 |  运动方程的建立与求解 |  通过解析法建立插齿机运动方程<br>再带入原动件运动规律对机构位置进行求解  |
@@ -27,7 +27,7 @@ collection: portfolio
 |  力矩分析  | 对插齿机运动过程中产生的力矩进行计算 |
 
 
-# 2.效果展示
+## 2.效果展示
 * 运动方程的建立
 运动方程的建立在原理课本中有详细的介绍，本机构的建立过程在 [`files/19_插齿机主运动机构计算机课程设计说明书-2024.pdf(点击即可跳转)`](files/19_插齿机主运动机构计算机课程设计说明书-2024.pdf) 中有详细介绍，在此不作赘述。
 <br>
@@ -51,26 +51,24 @@ collection: portfolio
 <img src='/images/Figure_1.png'>
 
 
-# 3.主要函数介绍
-|    函数声明     |     功能     |
-| :---:       |    :----:   |
-| calculate_phi(l1, l2, l3, s1, phi1_deg, theta1_deg)  |  构建插齿机左侧机构的运动方程并求解 phi3 大小  |
-|  calculate_phi4_and_s2(l3r, l4, phi3_degrees, e)  | 通过几何关系求出执行机构的运动 |
-|  compute_kinematics(data_matrix, set_speed)  | 使用差商法计算各关键点的角速度与角加速度 |
-|  process_range(l1, l2, l3, s1, theta1_deg, start_deg, end_deg, output_list, progress_counter)  |  多线程暴力求解方程  |
-|  InfoMat_calculation(data_matrix, l1, l3_left, l3_right, l4, l5, s1, theta1_deg)  |  计算机械连杆系统中各点的位置，并将每个原动件位置坐标，并存入一个大小为 1 * 2 * 7 的三维矩阵中。  |
-|  plot_velocity_acceleration(InfoMat, dt=1.0, point_index=6)  |  计算执行机构的速度与加速度  |
-|  frictionless_moment(InfoMat, data_matrix, m, l, dt)  |  使用差商法计算出除了执行机构其余各点的速度与加速度  |
-|  run_frictionless_moment(InfoMat, data_matrix, m, l, dt=1)  |  绘图线程启动函数  |
-|  set_speeds(degree_value)  |  设置仿真机构的运动输入  |
-|  simulation(l1, l2, l3_left, l3_right, l4, l5, e, s1, theta1_deg, radian_value)  |  仿真部分主函数，包含仿真的一系列初始化  |
+## 3.主要函数介绍
+* calculate_phi(l1, l2, l3, s1, phi1_deg, theta1_deg)：构建插齿机左侧机构的运动方程并求解 phi3 大小
+* calculate_phi4_and_s2(l3r, l4, phi3_degrees, e)：通过几何关系求出执行机构的运动
+* compute_kinematics(data_matrix, set_speed)：使用差商法计算各关键点的角速度与角加速度 
+* process_range(l1, l2, l3, s1, theta1_deg, start_deg, end_deg, output_list, progress_counter)：多线程暴力求解方程
+* InfoMat_calculation(data_matrix, l1, l3_left, l3_right, l4, l5, s1, theta1_deg)：计算机械连杆系统中各点的位置，并将每个原动件位置坐标，并存入一个大小为 1 * 2 * 7 的三维矩阵中。
+* plot_velocity_acceleration(InfoMat, dt=1.0, point_index=6)：计算执行机构的速度与加速度
+* frictionless_moment(InfoMat, data_matrix, m, l, dt)：使用差商法计算出除了执行机构其余各点的速度与加速度
+* run_frictionless_moment(InfoMat, data_matrix, m, l, dt=1)：绘图线程启动函数
+* set_speeds(degree_value)：设置仿真机构的运动输入
+* simulation(l1, l2, l3_left, l3_right, l4, l5, e, s1, theta1_deg, radian_value)：仿真部分主函数，包含仿真的一系列初始化
 
 
-# 4.实现方案
+## 4.实现方案
 详情请见 [《19_插齿机主运动机构计算机课程设计说明书-2024》(点击即可跳转)](https://github.com/mengruihao/curriculum_design/blob/main/files/19_%E6%8F%92%E9%BD%BF%E6%9C%BA%E4%B8%BB%E8%BF%90%E5%8A%A8%E6%9C%BA%E6%9E%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1%E8%AF%B4%E6%98%8E%E4%B9%A6-2024.pdf)。
 
 
-# 5.目前存在问题
+## 5.目前存在问题
 * 运动方程求解的正常做法应该是在原方程经过欧拉转换、实部虚部分离进行线性化后求出逆矩阵进行求解。但我为了节省公式推导的工作量采用 Numpy 库暴力求解，使用了处理器较多计算资源，并且计算速度较为缓慢，没有达到我的预期。
 <br>
 

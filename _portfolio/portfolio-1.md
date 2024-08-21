@@ -25,7 +25,7 @@ collection: portfolio
 
 ## 2.效果展示
 * 运动方程的建立
-运动方程的建立在原理课本中有详细的介绍，本机构的建立过程在 [files/19_插齿机主运动机构计算机课程设计说明书-2024.pdf(点击即可跳转)](files/19_插齿机主运动机构计算机课程设计说明书-2024.pdf) 中有详细介绍，在此不作赘述。
+运动方程的建立在原理课本中有详细的介绍，本机构的建立过程在 [19_插齿机主运动机构计算机课程设计说明书-2024.pdf(点击即可跳转)](files/19_插齿机主运动机构计算机课程设计说明书-2024.pdf) 中有详细介绍，在此不作赘述。
 <br>
 
 * 运动方程的求解
@@ -52,7 +52,8 @@ collection: portfolio
 
 
 ## 4.实现方案
-详情请见 [《19_插齿机主运动机构计算机课程设计说明书-2024》(点击即可跳转)](https://github.com/mengruihao/curriculum_design/blob/main/files/19_%E6%8F%92%E9%BD%BF%E6%9C%BA%E4%B8%BB%E8%BF%90%E5%8A%A8%E6%9C%BA%E6%9E%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1%E8%AF%B4%E6%98%8E%E4%B9%A6-2024.pdf)。
+详情请见 
+[《19_插齿机主运动机构计算机课程设计说明书-2024》(点击即可跳转)](https://github.com/mengruihao/curriculum_design/blob/main/files/19_%E6%8F%92%E9%BD%BF%E6%9C%BA%E4%B8%BB%E8%BF%90%E5%8A%A8%E6%9C%BA%E6%9E%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1%E8%AF%B4%E6%98%8E%E4%B9%A6-2024.pdf)。
 
 
 ## 5.目前存在问题

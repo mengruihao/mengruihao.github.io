@@ -1,6 +1,6 @@
 ---
 title: "1.基于 Pyhton 的插齿机机构仿真"
-excerpt: "插齿机机构仿真<br/><img src='/images/插齿机.png'>"
+excerpt: "插齿机机构仿真<br/><img src='/images/0003.gif'>"
 collection: portfolio
 ---
 

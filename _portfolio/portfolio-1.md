@@ -5,7 +5,7 @@ excerpt:
 SJZU 2024 年机械原理与课程设计作业（优）：插齿机机构仿真
 <br/>
 仓库地址：<br/>
-[GitHub](https://github.com/mengruihao/curriculum_design)<br/>
+GitHub：[https://github.com/mengruihao/curriculum_design](https://github.com/mengruihao/curriculum_design)<br/>
 <img src='/images/0003.gif'>
 "
 collection: portfolio
@@ -25,7 +25,7 @@ collection: portfolio
 
 ## 2.效果展示
 * 运动方程的建立
-运动方程的建立在原理课本中有详细的介绍，本机构的建立过程在 [19_插齿机主运动机构计算机课程设计说明书-2024.pdf(点击即可跳转)](files/19_插齿机主运动机构计算机课程设计说明书-2024.pdf) 中有详细介绍，在此不作赘述。
+运动方程的建立在原理课本中有详细的介绍，本机构的建立过程在 [《19_插齿机主运动机构计算机课程设计说明书-2024》(点击即可跳转)](files/19_插齿机主运动机构计算机课程设计说明书-2024.pdf) 中有详细介绍，在此不作赘述。
 <br>
 
 * 运动方程的求解
@@ -43,7 +43,7 @@ collection: portfolio
 <br>
 
 * 力矩分析（不考虑摩擦）
-力矩分析按照 [《指导书--考虑摩擦和惯性力的机构受力分析方法（注）20210929》(点击即可跳转)](https://github.com/mengruihao/curriculum_design/blob/main/files/%E6%8C%87%E5%AF%BC%E4%B9%A6--%E8%80%83%E8%99%91%E6%91%A9%E6%93%A6%E5%92%8C%E6%83%AF%E6%80%A7%E5%8A%9B%E7%9A%84%E6%9C%BA%E6%9E%84%E5%8F%97%E5%8A%9B%E5%88%86%E6%9E%90%E6%96%B9%E6%B3%95%EF%BC%88%E6%B3%A8%EF%BC%8920210929.pdf) 中介绍的方法进行计算。计算结果并未校准，数值可能不正确，尚未合并到主程序中。
+力矩分析按照 [《指导书--考虑摩擦和惯性力的机构受力分析方法（注）20210929》(点击即可跳转)](files\指导书--考虑摩擦和惯性力的机构受力分析方法（注）20210929.pdf) 中介绍的方法进行计算。计算结果并未校准，数值可能不正确，尚未合并到主程序中。
 <img src='/images/Figure_1.png'>
 
 
@@ -53,7 +53,7 @@ collection: portfolio
 
 ## 4.实现方案
 详情请见 
-[《19_插齿机主运动机构计算机课程设计说明书-2024》(点击即可跳转)](https://github.com/mengruihao/curriculum_design/blob/main/files/19_%E6%8F%92%E9%BD%BF%E6%9C%BA%E4%B8%BB%E8%BF%90%E5%8A%A8%E6%9C%BA%E6%9E%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1%E8%AF%B4%E6%98%8E%E4%B9%A6-2024.pdf)。
+[《19_插齿机主运动机构计算机课程设计说明书-2024》(点击即可跳转)](files/19_插齿机主运动机构计算机课程设计说明书-2024.pdf)。
 
 
 ## 5.目前存在问题

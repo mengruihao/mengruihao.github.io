@@ -12,19 +12,15 @@ collection: portfolio
 ---
 
 ## 目录
-* [1.功能介绍](#1.功能介绍)
-* [2.效果展示](#2.效果展示)
-* [3.主要函数介绍](#3.主要函数介绍)
-* [4.实现方案](#4实现方案)
-* [5.目前存在问题]()
+* [1.功能介绍](##1.功能介绍)
+* [2.效果展示](##2.效果展示)
+* [3.主要函数介绍](##3.主要函数介绍)
+* [4.实现方案](##4实现方案)
+* [5.目前存在问题](##5目前存在问题)
 
 
 ## 1.功能介绍
-|    模块     |     功能     |
-| :---:       |    :----:   |
-|  运动方程的建立与求解 |  通过解析法建立插齿机运动方程<br>再带入原动件运动规律对机构位置进行求解  |
-|  运动仿真  | 设置插齿机各结构参数后进行整体机构运动学仿真 |
-|  力矩分析  | 对插齿机运动过程中产生的力矩进行计算 |
+<img src='/images/0004.png'>
 
 
 ## 2.效果展示
@@ -52,16 +48,7 @@ collection: portfolio
 
 
 ## 3.主要函数介绍
-* calculate_phi(l1, l2, l3, s1, phi1_deg, theta1_deg)：构建插齿机左侧机构的运动方程并求解 phi3 大小
-* calculate_phi4_and_s2(l3r, l4, phi3_degrees, e)：通过几何关系求出执行机构的运动
-* compute_kinematics(data_matrix, set_speed)：使用差商法计算各关键点的角速度与角加速度 
-* process_range(l1, l2, l3, s1, theta1_deg, start_deg, end_deg, output_list, progress_counter)：多线程暴力求解方程
-* InfoMat_calculation(data_matrix, l1, l3_left, l3_right, l4, l5, s1, theta1_deg)：计算机械连杆系统中各点的位置，并将每个原动件位置坐标，并存入一个大小为 1 * 2 * 7 的三维矩阵中。
-* plot_velocity_acceleration(InfoMat, dt=1.0, point_index=6)：计算执行机构的速度与加速度
-* frictionless_moment(InfoMat, data_matrix, m, l, dt)：使用差商法计算出除了执行机构其余各点的速度与加速度
-* run_frictionless_moment(InfoMat, data_matrix, m, l, dt=1)：绘图线程启动函数
-* set_speeds(degree_value)：设置仿真机构的运动输入
-* simulation(l1, l2, l3_left, l3_right, l4, l5, e, s1, theta1_deg, radian_value)：仿真部分主函数，包含仿真的一系列初始化
+<img src='/images/0005.png'>
 
 
 ## 4.实现方案

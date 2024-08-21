@@ -1,6 +1,13 @@
 ---
 title: "1.基于 Pyhton 的插齿机机构仿真"
-excerpt: "插齿机机构仿真<br/><img src='/images/0003.gif'>"
+excerpt:
+ "
+SJZU 2024 年机械原理与课程设计作业（优）：插齿机机构仿真
+<br/>
+仓库地址：<br/>
+[GitHub](https://github.com/mengruihao/curriculum_design)<br/>
+<img src='/images/0003.gif'>
+"
 collection: portfolio
 ---
 
@@ -31,17 +38,17 @@ collection: portfolio
 
 * 运动仿真
 得到运动方程的解后我采用了 Matplotlib 库实现机构运动的可视化。
-![](images/0001.gif) 
+<img src='/images/0001.gif'>
 <br>
 
 * 执行机构运动曲线
 我单独制作了执行机构的运动曲线，包括速度和加速度，以便能好的反应其运动特性。
-![](imsges/0002.gif) 
+<img src='/images/0002.gif'>
 <br>
 
 * 力矩分析（不考虑摩擦）
 力矩分析按照  [《指导书--考虑摩擦和惯性力的机构受力分析方法（注）20210929》(点击即可跳转)](https://github.com/mengruihao/curriculum_design/blob/main/files/%E6%8C%87%E5%AF%BC%E4%B9%A6--%E8%80%83%E8%99%91%E6%91%A9%E6%93%A6%E5%92%8C%E6%83%AF%E6%80%A7%E5%8A%9B%E7%9A%84%E6%9C%BA%E6%9E%84%E5%8F%97%E5%8A%9B%E5%88%86%E6%9E%90%E6%96%B9%E6%B3%95%EF%BC%88%E6%B3%A8%EF%BC%8920210929.pdf) 中介绍的方法进行计算。计算结果并未校准，数值可能不正确，尚未合并到主程序中。
-![](img/Figure_1.png) 
+<img src='/images/Figure_1.png'>
 
 
 # 3.主要函数介绍

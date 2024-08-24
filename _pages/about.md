@@ -38,11 +38,11 @@ RoboMaster2022-2024  |  2023年中国大学生计算机博弈大赛不围棋二�
 ======
 * Email：mrh@stu.sjzu.edu.cn<br>
 
-* GitHub： https://mengruihao.github.io/ （ 孟睿豪 ）<br>
+* GitHub： [https://mengruihao.github.io/](https://mengruihao.github.io/) （ 孟睿豪 ）<br>
 
-* CSDN： https://blog.csdn.net/weixin_73701209?type=blog（ 星期六不太累 ）<br>
+* CSDN： [https://blog.csdn.net/weixin_73701209?type=blog](https://blog.csdn.net/weixin_73701209?type=blog)（ 星期六不太累 ）<br>
 
-* 沈阳建筑大学简锋实验室 Bilibili 官方账号：https://space.bilibili.com/388263042 （ JianfengRobotics ）<br>
+* 沈阳建筑大学简锋实验室 Bilibili 官方账号：[https://space.bilibili.com/388263042](https://space.bilibili.com/388263042) （ JianfengRobotics ）<br>
 
 * 沈阳建筑大学简锋实验室微信公众号<br>
 <img src='/images/0.0.0.png'>

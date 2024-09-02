@@ -47,4 +47,8 @@ RoboMaster2022-2024  |  2023年中国大学生计算机博弈大赛不围棋二�
 * 沈阳建筑大学简锋实验室微信公众号<br>
 <img src='/images/0.0.0.png'>
 
+* 简锋实验室 2024 招新 QQ 群<br>
+<img src='/images/2024招新QQ.png'><br>
 
+* 简锋实验室 2024 招新微信群<br>
+<img src='/images/2024招新微信.png'><br>
